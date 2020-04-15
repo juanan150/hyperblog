@@ -1,2 +1,2 @@
 # hyperblog
-Un blog para el cuyrso de platzi
+Un blog para el curso de platzi
